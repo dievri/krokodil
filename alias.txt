@@ -1,0 +1,1 @@
+alias resty="sudo docker run --rm -it --name \"resty\" -v /home/dievri/Documents/react/krokodil/build:/usr/local/openresty/nginx/html -v /home/dievri/Documents/configs:/etc/nginx/conf.d -p 127.0.0.1:8080:80 post:2"
