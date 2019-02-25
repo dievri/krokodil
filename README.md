@@ -10,13 +10,15 @@ docker-compose
 ## Deployment
 
 1. Clone this git repository
-2. Run command
+2. `cd` to directory
+3. Run command
 `
 docker-compose up
 `
 
-Images will be stored in /tmp folder of OpenResty container
-Database snapshots saved in /data folder of redis container
+- Images will be stored in /tmp folder of OpenResty container
+
+- Database snapshots saved in /data folder of redis container
 
 
 ## Built With
