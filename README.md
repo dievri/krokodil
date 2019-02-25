@@ -11,6 +11,7 @@ docker-compose
 
 1. Clone this git repository
 2. `cd krokodil` to change directory
+3. `mkdir tmp`, the images will be stored in tmp folder
 3. Run command
 `
 docker-compose up
