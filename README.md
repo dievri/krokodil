@@ -15,6 +15,9 @@ docker-compose
 docker-compose up
 `
 
+Images will be stored in /tmp folder of OpenResty container
+Database snapshots saved in /data folder of redis container
+
 
 ## Built With
 
