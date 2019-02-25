@@ -10,11 +10,12 @@ docker-compose
 ## Deployment
 
 1. Clone this git repository
-2. `cd` to directory
+2. `cd krokodil` to change directory
 3. Run command
 `
 docker-compose up
 `
+4. Open http://localhost:8080 in your browser
 
 - Images will be stored in /tmp folder of OpenResty container
 
